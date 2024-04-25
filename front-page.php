@@ -18,7 +18,7 @@
     </div>
   </section>
 
-  <section class="section-2">
+  <section class="section-2" id="wedding">
     <div class="box-color" style="background-color: #BEC8D2"></div>
     <div class="section-2__wrapper">
       <figure>
@@ -33,21 +33,21 @@
           <p class="text-92 pb-10">Ceremony</p>
           <p class="text-22 pb-20">CEREMONIA</p>
   
-          <p class="text-32-n text-stroke-5">Catedral</p>
-          <p class="text-32-n text-stroke-5 pb-10">Santa Catalina de Alejandria</p>
+          <p class="text-32-n text-stroke-4">Catedral</p>
+          <p class="text-32-n text-stroke-4 pb-10">Santa Catalina de Alejandria</p>
 
           <div class="pb-10">
-            <button class="button button--gray text-stroke-5">Location</button>
+            <a href="https://maps.app.goo.gl/d3QZ94HutmeTSzHb8" target="_blank" class="button button--gray text-stroke-5">Location</a>
           </div>
 
-          <p class="text-32-n text-stroke-5 pb-60">5:00 P.M.</p>
+          <p class="text-32-n text-stroke-4 pb-60">5:00 P.M.</p>
 
           <p class="text-92">Reception to Follow</p>
           <p class="text-22 pb-20">RECEPCIÓN A CONTINUACIÓN</p>
 
           <p class="text-32-n text-stroke-5 pb-10">Casa 1537</p>
           <div class="pb-60">
-            <button class="button button--gray text-stroke-5">Location</button>
+            <a href="https://maps.app.goo.gl/2T7K88LjKMAH1dZ88" target="_blank" class="button button--gray text-stroke-5">Location</a>
           </div>
 
           <p class="text-26">DRESS CODE</p>
@@ -57,7 +57,7 @@
           </div>
 
           <p class="text-26 pb-10">GIFT - REGALOS</p>
-          <button class="button button--gray text-stroke-5">Click here</button>
+          <a href="https://www.zola.com/registry/sofiaandleopoldo" target="_blank" class="button button--gray text-stroke-5">Click here</a>
         </div>
       </div>
     </div>
@@ -78,28 +78,28 @@
             <p class="text-92 pb-10">Welcome Cocktail</p>
             <p class="text-22 pb-20">CÓCTEL DE BIENVENIDA</p>
     
-            <p class="text-32-n text-stroke-5">Sogitel Legend</p>
-            <p class="text-32-n text-stroke-5 pb-10">Santa Clara Hotel</p>
+            <p class="text-32-n text-stroke-4">Sogitel Legend</p>
+            <p class="text-32-n text-stroke-4 pb-10">Santa Clara Hotel</p>
 
             <div class="pb-10">
-              <button class="button button--gray text-stroke-5">Location</button>
+              <a href="https://maps.app.goo.gl/CoFrddQmofVZDyNX6" target="_blank" class="button button--gray text-stroke-5">Location</a>
             </div>
 
             <p class="text-32-n text-stroke-5 pb-60">5:30 P.M.</p>
 
             <p class="text-26">DRESS CODE</p>
-            <p class="text-32-n text-stroke-5"> Linen shirt and pants</p>
-            <p class="text-32-n text-stroke-5 pb-20"> Tropical cocktail dress</p>
+            <p class="text-32-n text-stroke-4"> Linen shirt and pants</p>
+            <p class="text-32-n text-stroke-4 pb-20"> Tropical cocktail dress</p>
 
-            <p class="text-32-n text-stroke-5">Camisa de Lino / Guayabera</p>
-            <p class="text-32-n text-stroke-5 pb-20">Vestido de cóctel tropical</p>
+            <p class="text-32-n text-stroke-4">Camisa de Lino / Guayabera</p>
+            <p class="text-32-n text-stroke-4 pb-20">Vestido de cóctel tropical</p>
             <button class="button button--gray">View Example</button>
           </div>
         </div>
     </div>
   </section>
 
-  <section class="section-4">
+  <section class="section-4" id="cartagena">
     <div class="box-color" style="background-color: #EDC484">
       <div class="texto-center">
         <p class="text-36 color--fff">ENJOY!</p>
@@ -111,19 +111,19 @@
 
       <div class="section-4__content">
         <div class="box">
-          <p class="text-26-n pb-30">
+          <p class="text-26-n pb-30 text-stroke-4">
             We are thrilled to be hosting our wedding in Cartagena, Colombia's coastal gem. This city, designated as a UNESCO world heritage site, stands as one of South America's most significant cultural treasures. The walls of Cartagena de Indias grace the historical center, known as "the walled city," where you can discover squares, cobblestone streets, and exquisite, vibrant colonial buildings.
           </p>
-          <p class="text-26-n">
+          <p class="text-26-n text-stroke-4">
             The ultimate way to experience Cartagena is by strolling through it, immersing yourself in the maze of narrow streets and lush green plazas. We highly recommend lodging within the walled city, where everything is conveniently within walking distance. The streets are alive with constant live music, splendid restaurants, and quirky bars, all contributing to the vibrant atmosphere of Cartagena.
           </p>
 
           <span></span>
           
-          <p class="text-26-n pb-30">
+          <p class="text-26-n pb-30 text-stroke-4">
             Estamos encantados de celebrar nuestra boda en Cartagena, la joya costera de Colombia. Esta ciudad, declarada Patrimonio de la Humanidad por la UNESCO, es uno de los tesoros culturales más importantes de Sudamérica. Las murallas de Cartagena de Indias adornan el centro histórico, conocido como "la ciudad amurallada", donde podrá descubrir plazas, calles adoquinadas y exquisitos y vibrantes edificios coloniales.
           </p>
-          <p class="text-26-n">
+          <p class="text-26-n text-stroke-4">
             La mejor forma de conocer Cartagena es paseando por ella, sumergiéndose en el laberinto de callejuelas y exuberantes plazas verdes. Recomendamos alojarse en la ciudad amurallada, donde todo está a un paso. Las calles están llenas de música en directo, espléndidos restaurantes y extravagantes bares, que contribuyen a la vibrante atmósfera de Cartagena.
           </p>
         </div>
@@ -131,7 +131,7 @@
     </div>
   </section>
 
-  <div class="section-5__wrapper">
+  <div class="section-5__wrapper" id="places">
     <div class="text-center m-b40">
       <h2 class="text-142">Places to Visit!</h2>
       <p class="text-28 pb-60" style="margin-top: -10px">LUGARES PARA VISITAR</p>
@@ -262,17 +262,17 @@
       </p>
 
       <div class="section-5__ctas">
-        <a href="#" class="link text-w-32">HOTELS</a> 
-        <a href="#" class="link text-w-32">RESTAURANTS</a> 
-        <a href="#" class="link text-w-32">COFFEE & DESSERTS</a> 
-        <a href="#" class="link text-w-32">BARS & PUBS</a> 
-        <a href="#" class="link text-w-32">BOUTIQUES</a> 
-        <a href="#" class="link text-w-32">BEAUTY SALONS</a> 
+        <a href="/cartagena/#hotels" class="link text-w-32">HOTELS</a> 
+        <a href="/cartagena/#restaurants" class="link text-w-32">RESTAURANTS</a> 
+        <a href="/cartagena/#coffe" class="link text-w-32">COFFEE & DESSERTS</a> 
+        <a href="/cartagena/#bars" class="link text-w-32">BARS & PUBS</a> 
+        <a href="/cartagena/#boutiques" class="link text-w-32">BOUTIQUES</a> 
+        <a href="/cartagena/#beauty" class="link text-w-32">BEAUTY SALONS</a> 
       </div>      
     </div>
   </div>
 
-  <section class="section-6">
+  <section class="section-6" id="rsvp">
     <div class="box-color" style="background-color: #C1C39C">
       <p class="text-220 color--fff">R.S.V.P.</p>
     </div>
@@ -291,7 +291,7 @@
 
           <p class="text-26-n text-stroke-3 pb-10">Kindly respond by September 26th, 2024</p>
           <p class="text-26-n text-stroke-3">Por favor confirmar su asistencia antes</p>
-          <p class="text-26-n text-stroke-3">del 16 de Septiembre, 2024</p>
+          <p class="text-26-n text-stroke-3 pb-60">del 16 de Septiembre, 2024</p>
         </div>
         <?php echo do_shortcode('[contact-form-7 id="9885dbb" title="Contact form 1"]')?>
       </div>

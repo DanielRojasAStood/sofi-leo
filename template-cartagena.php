@@ -72,8 +72,8 @@
                     </div>
                     </div>
                 </div>
-              <div class="text-center" id="hoteles">
-                <h2 class="text-40 color--5E713E uppercase">Hoteles</h2>
+              <div class="text-center" id="hotels">
+                <h2 class="text-40 color--5E713E uppercase">HOTELS</h2>
               </div>
               <div class="section-grid__line">
                 <div class="section-grid gap-80 slick-1">
@@ -88,15 +88,17 @@
                     <p class="text-10" style="font-weight: 500">CODE-CÓDIGO:</p>
                     <p class="text-10" style="font-size: 14px; font-weight: 500">SOFIAANDLEO</p>
                     <button type="button"
+                    data-open-modal="modal-1"
                       class="button button--medium"
                     >
                     VIEW DETAILS
                     </button>
-                    <button type="button"
+                    <a href="https://www.santacatalinahotel.com.co"
+                    target="_blank"
                       class="button button--medium"
                     >
                     LINK WEB
-                    </button>
+                    </a>
                   </div>
                   <div class="section-grid__item no-gap">
                     <h3 class="text-16  text-center color--5E713E text-stroke-3">
@@ -109,15 +111,16 @@
                     <p class="text-10">Centro Histórico, Cartagena</p>
                     <p class="text-14-p mb-20 number">+57 300 3844185</p>
                     <button type="button"
+                    data-open-modal="modal-2"
                       class="button button--medium"
                     >
                     VIEW DETAILS
                     </button>
-                    <button type="button"
+                    <a href="https://api.whatsapp.com/send?phone=573003844185" target="_blank"
                       class="button button--medium"
                     >
                     LINK WAPP
-                    </button>
+                    </a>
                   </div>
                   <div class="section-grid__item no-gap">
                     <h3 class="text-16  text-center color--5E713E text-stroke-3">
@@ -128,6 +131,7 @@ URBAN CARTAGENA
                     <p class="text-10">Centro Histórico, Cartagena</p>
                     <p class="text-14-p mb-20 number">+57 (605) 6455050</p>
                     <button type="button"
+                    data-open-modal="modal-3"
                       class="button button--medium"
                     >
                     VIEW DETAILS
@@ -181,29 +185,41 @@ URBAN CARTAGENA
                     <p class="text-10">Cra. 7 # 34 -10</p>
                     <p class="text-10">Centro Histórico, Cartagena</p>
                     <p class="text-14-p mb-20 number">+57 (5) 6649494</p>
+                    <button type="button"
+                    data-open-modal="modal-6"
+                      class="button button--medium"
+                    >
+                    VIEW DETAILS
+                    </button>
                     <a
-                      href="https://www.hotelcharlestonsantateresa.com/es"
-                      class="button button--small"
+                      href="https://www.hotelcharlestonsantateresa.com/"
+                      class="button button--medium"
                       target="_blank"
                     >
-                      VER
+                    LINK WEB
                     </a>
                   </div>
   
                   <div class="section-grid__item no-gap">
                     <h3 class="text-16  text-center color--5E713E text-stroke-3">
-                      SOFITEL LEGEND <br />
-                      SANTA CLARA
+                    HOTEL SANTA <br>
+                    CLARA BY SOFITEL
                     </h3>
                     <p class="text-10">Calle Del Torno # 39 - 29</p>
                     <p class="text-10">Centro Histórico, Cartagena</p>
                     <p class="text-14-p mb-20 number">+57 5 6504700</p>
+                    <button type="button"
+                    data-open-modal="modal-5"
+                      class="button button--medium"
+                    >
+                    VIEW DETAILS
+                    </button>
                     <a
-                      href="https://www.sofitellegendsantaclara.com/"
-                      class="button button--small"
+                      href="https://www.sofitellegendsantaclara.com"
+                      class="button button--medium"
                       target="_blank"
                     >
-                      VER
+                    LINK WEB
                     </a>
                   </div>
   
@@ -232,12 +248,19 @@ URBAN CARTAGENA
                     <p class="text-10">Calle del Sargento Mayor # 6 - 87</p>
                     <p class="text-10">Centro Histórico, Cartagena</p>
                     <p class="text-14-p mb-20 number">+57 (605) 6424100</p>
+                    <button type="button"
+                    data-open-modal="modal-4"
+                      class="button button--medium"
+                    >
+                    VIEW DETAILS
+                    </button>
+
                     <a
                       href="https://www.bastionluxuryhotel.com/"
-                      class="button button--small"
+                      class="button button--medium"
                       target="_blank"
                     >
-                      VER
+                    LINK WEB
                     </a>
                   </div>
   
@@ -361,8 +384,8 @@ URBAN CARTAGENA
                   </div>
                 </div>
               </div>
-              <div class="text-center" id="restaurante">
-                <h2 class="text-40 color--5E713E uppercase">Restaurantes</h2>
+              <div class="text-center" id="restaurants">
+                <h2 class="text-40 color--5E713E uppercase">RESTAURANTS</h2>
               </div>
               <div class="section-grid__line">
                 <div class="section-grid gap-80 slick-2">
@@ -514,8 +537,8 @@ URBAN CARTAGENA
                 </div>
               </div>
 
-              <div class="text-center" id="brunch">
-                <h2 class="text-40 color--5E713E uppercase">Brunch & Desserts</h2>
+              <div class="text-center" id="coffe">
+                <h2 class="text-40 color--5E713E uppercase">COFFEE & DESSERTS</h2>
               </div>
               <div class="section-grid__line">
                 <div class="section-grid gap-80 slick-5">
@@ -588,8 +611,8 @@ URBAN CARTAGENA
                   </div>
                 </div>
               </div>
-              <div class="text-center" id="bares">
-                <h2 class="text-40 color--5E713E uppercase">Bares</h2>
+              <div class="text-center" id="bars">
+                <h2 class="text-40 color--5E713E uppercase">BARS & PUBS</h2>
               </div>
               <div class="section-grid__line">
                 <div class="section-grid gap-80 slick-3">
@@ -701,8 +724,8 @@ URBAN CARTAGENA
                   </div>
                 </div>
               </div>
-              <div class="text-center" id="peluquerias">
-                <h2 class="text-40 color--5E713E uppercase">Peluquerías</h2>
+              <div class="text-center" id="boutiques">
+                <h2 class="text-40 color--5E713E uppercase">BOUTIQUES</h2>
               </div>
               <div class="section-grid__line">
                 <div class="section-grid gap-80 slick-4">
@@ -828,6 +851,138 @@ URBAN CARTAGENA
           </div>
         </div>
       </section>
+
+
+
+    <section class="modal" style="display: none" data-modal="modal-1">
+      <div class="modal__wrapper">
+        <div class="modal__body">
+          <button type="button" data-close-modal>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"> <path fill="#fff" stroke-miterlimit="10" d="M7.72 6.28 6.28 7.72 23.56 25 6.28 42.28l1.44 1.44L25 26.44l17.28 17.28 1.44-1.44L26.44 25 43.72 7.72l-1.44-1.44L25 23.56z" font-family="none" font-size="none" font-weight="none" style="mix-blend-mode: normal" text-anchor="none" transform="scale(5.1)" /> </svg>
+          </button>
+          <div class="modal__body-copy">
+            <p class="text-20">HOTEL SANTA CATALINA</p>
+            <p class="text-14-p">CODE-CÓDIGO: SOFIANDLEO</p>
+            <br>
+            <p class="text-16-1">The discount applies for all rooms/El descuento está activo para todas los tipos de habitaciones.</p>
+            <br>
+            <p class="text-16-1">Tentative dates/Fechas de Estancia:</p>
+            <p class="text-16-1">12/11/2024 AL 18/11/2024</p>
+            <br>
+            <p class="text-16-1">Limit for Reservations/Fechas de reserva:</p>
+            <p class="text-16-1">23/03/2024 AL 01/11/2024</p>
+            <br>
+            <p class="text-16-1">Sales Tax not included/La tarifa No incluye IVA 19% por servicios de alojamiento. BUT see above.</p>
+            <br>
+            <p class="text-16-1">Reservations should be made through the hotel web page/Todas la Reservas se canalizan por la Página Web del Hotel</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="modal" style="display: none" data-modal="modal-2">
+      <div class="modal__wrapper">
+        <div class="modal__body">
+          <button type="button" data-close-modal>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"> <path fill="#fff" stroke-miterlimit="10" d="M7.72 6.28 6.28 7.72 23.56 25 6.28 42.28l1.44 1.44L25 26.44l17.28 17.28 1.44-1.44L26.44 25 43.72 7.72l-1.44-1.44L25 23.56z" font-family="none" font-size="none" font-weight="none" style="mix-blend-mode: normal" text-anchor="none" transform="scale(5.1)" /> </svg>
+          </button>
+          <div class="modal__body-copy">
+            <p class="text-20">HOTELS CASONA DEL COLEGIO</p>
+            <p class="text-20">Y CASONA DEL PORVENIR</p>
+            <br>
+            <p class="text-16-1">Two hotels one block from each other.</p>
+            <br>
+            <p class="text-16-1">Discounted rates only for April and may be extended until the end of May.</p>
+            <br>
+            <p class="text-16-1">Contact Sheik Rojas Hotel Manager</p>
+            <p class="text-16-1">via Wasp: +57 300 3844185.</p>
+            <br>
+            <p class="text-16-1">Mention Boda de</p>
+            <p class="text-16-1">Sofia Pinedo y Leopoldo Castillo.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="modal" style="display: none" data-modal="modal-3">
+      <div class="modal__wrapper">
+        <div class="modal__body">
+          <button type="button" data-close-modal>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"> <path fill="#fff" stroke-miterlimit="10" d="M7.72 6.28 6.28 7.72 23.56 25 6.28 42.28l1.44 1.44L25 26.44l17.28 17.28 1.44-1.44L26.44 25 43.72 7.72l-1.44-1.44L25 23.56z" font-family="none" font-size="none" font-weight="none" style="mix-blend-mode: normal" text-anchor="none" transform="scale(5.1)" /> </svg>
+          </button>
+          <div class="modal__body-copy">
+            <p class="text-20">HOTEL NH ROYAL URBAN</p>
+            <p class="text-20">CARTAGENA</p>
+            <br>
+            <p class="text-16-1">
+              <a href="mailto:Reservas.ame@nh-hotels.com" style="color: #5e713e">Reservas.ame@nh-hotels.com</a>
+            </p>
+            <br>
+            <p class="text-16-1">Arely Flores Reservations.</p>
+            <p class="text-16-1">Mention Boda de Sofia Pinedo y Leopoldo Castillo.</p>
+            <br>
+            <p class="text-16-1">Check Expedia and Booking for potential better rates.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="modal" style="display: none" data-modal="modal-4">
+      <div class="modal__wrapper">
+        <div class="modal__body">
+          <button type="button" data-close-modal>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"> <path fill="#fff" stroke-miterlimit="10" d="M7.72 6.28 6.28 7.72 23.56 25 6.28 42.28l1.44 1.44L25 26.44l17.28 17.28 1.44-1.44L26.44 25 43.72 7.72l-1.44-1.44L25 23.56z" font-family="none" font-size="none" font-weight="none" style="mix-blend-mode: normal" text-anchor="none" transform="scale(5.1)" /> </svg>
+          </button>
+          <div class="modal__body-copy">
+            <p class="text-20">HOTEL BASTION LUXURY</p>
+            <br>
+            <p class="text-16-1">Yuli Narvaez Guzman Reservations.</p>
+            <br>
+            <p class="text-16-1">Boutique Hotel more expensive.</p>
+            <br>
+            <p class="text-16-1">Check Expedia and Booking for potential better rates.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="modal" style="display: none" data-modal="modal-5">
+      <div class="modal__wrapper">
+        <div class="modal__body">
+          <button type="button" data-close-modal>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"> <path fill="#fff" stroke-miterlimit="10" d="M7.72 6.28 6.28 7.72 23.56 25 6.28 42.28l1.44 1.44L25 26.44l17.28 17.28 1.44-1.44L26.44 25 43.72 7.72l-1.44-1.44L25 23.56z" font-family="none" font-size="none" font-weight="none" style="mix-blend-mode: normal" text-anchor="none" transform="scale(5.1)" /> </svg>
+          </button>
+          <div class="modal__body-copy">
+            <p class="text-20">HOTEL SANTA CLARA <br> BY SOFITEL</p>
+            <br>
+            <p class="text-16-1">High end hotel.</p><br>
+            <p class="text-16-1">Check Expedia and Booking for </p>
+            <p class="text-16-1">potential better rates.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="modal" style="display: none" data-modal="modal-6">
+      <div class="modal__wrapper">
+        <div class="modal__body">
+          <button type="button" data-close-modal>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"> <path fill="#fff" stroke-miterlimit="10" d="M7.72 6.28 6.28 7.72 23.56 25 6.28 42.28l1.44 1.44L25 26.44l17.28 17.28 1.44-1.44L26.44 25 43.72 7.72l-1.44-1.44L25 23.56z" font-family="none" font-size="none" font-weight="none" style="mix-blend-mode: normal" text-anchor="none" transform="scale(5.1)" /> </svg>
+          </button>
+          <div class="modal__body-copy">
+            <p class="text-20">HOTEL CHARLESTON <br> SANTA TERESA</p>
+            <p class="text-16-1">Lina Flores reservations manager. </p>
+            <p class="text-16-1">Phone: +57 605 6649494. </p>
+            <br>
+            <p class="text-16-1">High end hotel.</p>
+            <br>
+            <p class="text-16-1">Check Expedia and Booking for potential better rates.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
     </main>
 
 <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
