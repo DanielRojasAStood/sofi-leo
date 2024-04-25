@@ -77,7 +77,7 @@
               </div>
               <div class="section-grid__line">
                 <div class="section-grid gap-80 slick-1">
-                <div class="section-grid__item no-gap">
+                  <div class="section-grid__item no-gap">
                     <h3 class="text-16  text-center color--5E713E text-stroke-3">
                     HOTEL SANTA <br> CATALINA
                     </h3>
@@ -145,6 +145,76 @@ URBAN CARTAGENA
 
                   <div class="section-grid__item no-gap">
                     <h3 class="text-16  text-center color--5E713E text-stroke-3">
+                      BASTION <br />
+                      LUXURY HOTEL
+                    </h3>
+                    <p class="text-10">Calle del Sargento Mayor # 6 - 87</p>
+                    <p class="text-10">Centro Histórico, Cartagena</p>
+                    <p class="text-14-p mb-20 number">+57 (605) 6424100</p>
+                    <button type="button"
+                    data-open-modal="modal-4"
+                      class="button button--medium"
+                    >
+                    VIEW DETAILS
+                    </button>
+
+                    <a
+                      href="https://www.bastionluxuryhotel.com/"
+                      class="button button--medium"
+                      target="_blank"
+                    >
+                    LINK WEB
+                    </a>
+                  </div>
+
+                  <div class="section-grid__item no-gap">
+                    <h3 class="text-16  text-center color--5E713E text-stroke-3">
+                    HOTEL SANTA <br>
+                    CLARA BY SOFITEL
+                    </h3>
+                    <p class="text-10">Calle Del Torno # 39 - 29</p>
+                    <p class="text-10">Centro Histórico, Cartagena</p>
+                    <p class="text-14-p mb-20 number">+57 5 6504700</p>
+                    <button type="button"
+                    data-open-modal="modal-5"
+                      class="button button--medium"
+                    >
+                    VIEW DETAILS
+                    </button>
+                    <a
+                      href="https://www.sofitellegendsantaclara.com"
+                      class="button button--medium"
+                      target="_blank"
+                    >
+                    LINK WEB
+                    </a>
+                  </div>
+
+                  <div class="section-grid__item no-gap">
+                    <h3 class="text-16  text-center color--5E713E text-stroke-3">
+                      CHARLESTON <br />
+                      SANTA TERESA
+                    </h3>
+                    <p class="text-10">Cra. 7 # 34 -10</p>
+                    <p class="text-10">Centro Histórico, Cartagena</p>
+                    <p class="text-14-p mb-20 number">+57 (5) 6649494</p>
+                    <button type="button"
+                    data-open-modal="modal-6"
+                      class="button button--medium"
+                    >
+                    VIEW DETAILS
+                    </button>
+                    <a
+                      href="https://www.hotelcharlestonsantateresa.com/"
+                      class="button button--medium"
+                      target="_blank"
+                    >
+                    LINK WEB
+                    </a>
+                  </div>
+
+                  <div class="section-grid__item no-gap">
+                    <h3 class="text-16  text-center color--5E713E text-stroke-3">
                       MOVICH <br />
                       HOTELS
                     </h3>
@@ -179,52 +249,6 @@ URBAN CARTAGENA
   
                   <div class="section-grid__item no-gap">
                     <h3 class="text-16  text-center color--5E713E text-stroke-3">
-                      CHARLESTON <br />
-                      SANTA TERESA
-                    </h3>
-                    <p class="text-10">Cra. 7 # 34 -10</p>
-                    <p class="text-10">Centro Histórico, Cartagena</p>
-                    <p class="text-14-p mb-20 number">+57 (5) 6649494</p>
-                    <button type="button"
-                    data-open-modal="modal-6"
-                      class="button button--medium"
-                    >
-                    VIEW DETAILS
-                    </button>
-                    <a
-                      href="https://www.hotelcharlestonsantateresa.com/"
-                      class="button button--medium"
-                      target="_blank"
-                    >
-                    LINK WEB
-                    </a>
-                  </div>
-  
-                  <div class="section-grid__item no-gap">
-                    <h3 class="text-16  text-center color--5E713E text-stroke-3">
-                    HOTEL SANTA <br>
-                    CLARA BY SOFITEL
-                    </h3>
-                    <p class="text-10">Calle Del Torno # 39 - 29</p>
-                    <p class="text-10">Centro Histórico, Cartagena</p>
-                    <p class="text-14-p mb-20 number">+57 5 6504700</p>
-                    <button type="button"
-                    data-open-modal="modal-5"
-                      class="button button--medium"
-                    >
-                    VIEW DETAILS
-                    </button>
-                    <a
-                      href="https://www.sofitellegendsantaclara.com"
-                      class="button button--medium"
-                      target="_blank"
-                    >
-                    LINK WEB
-                    </a>
-                  </div>
-  
-                  <div class="section-grid__item no-gap">
-                    <h3 class="text-16  text-center color--5E713E text-stroke-3">
                       NÁCAR HOTEL <br />
                       BY HILTON
                     </h3>
@@ -240,29 +264,7 @@ URBAN CARTAGENA
                     </a>
                   </div>
   
-                  <div class="section-grid__item no-gap">
-                    <h3 class="text-16  text-center color--5E713E text-stroke-3">
-                      BASTION <br />
-                      LUXURY HOTEL
-                    </h3>
-                    <p class="text-10">Calle del Sargento Mayor # 6 - 87</p>
-                    <p class="text-10">Centro Histórico, Cartagena</p>
-                    <p class="text-14-p mb-20 number">+57 (605) 6424100</p>
-                    <button type="button"
-                    data-open-modal="modal-4"
-                      class="button button--medium"
-                    >
-                    VIEW DETAILS
-                    </button>
-
-                    <a
-                      href="https://www.bastionluxuryhotel.com/"
-                      class="button button--medium"
-                      target="_blank"
-                    >
-                    LINK WEB
-                    </a>
-                  </div>
+                  
   
                   <div class="section-grid__item no-gap">
                     <h3 class="text-16  text-center color--5E713E text-stroke-3">
