@@ -226,7 +226,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
   
@@ -243,7 +243,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
   
@@ -260,7 +260,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
   
@@ -279,7 +279,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
   
@@ -296,7 +296,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
   
@@ -313,7 +313,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
   
@@ -330,7 +330,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
   
@@ -347,7 +347,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
   
@@ -364,7 +364,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
   
@@ -381,7 +381,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
                 </div>
@@ -404,7 +404,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
                   <div class="section-grid__item no-gap">
@@ -417,7 +417,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
                   <div class="section-grid__item no-gap">
@@ -430,7 +430,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
                   <div class="section-grid__item no-gap">
@@ -443,7 +443,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
                   <div class="section-grid__item no-gap">
@@ -459,7 +459,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
                   <div class="section-grid__item no-gap">
@@ -475,7 +475,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
                   <div class="section-grid__item no-gap">
@@ -491,7 +491,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
                   <div class="section-grid__item no-gap">
@@ -504,7 +504,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
                   <div class="section-grid__item no-gap">
@@ -517,7 +517,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
                   <div class="section-grid__item no-gap">
@@ -533,7 +533,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
                 </div>
@@ -557,7 +557,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
   
@@ -574,7 +574,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
   
@@ -591,7 +591,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
   
@@ -608,7 +608,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
                 </div>
@@ -631,7 +631,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
                   <div class="section-grid__item no-gap">
@@ -647,7 +647,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
                   <div class="section-grid__item no-gap">
@@ -663,7 +663,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
                   <div class="section-grid__item no-gap">
@@ -676,7 +676,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
                   <div class="section-grid__item no-gap">
@@ -692,7 +692,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
                   <div class="section-grid__item no-gap">
@@ -705,7 +705,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
                   <div class="section-grid__item no-gap">
@@ -721,7 +721,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
                 </div>
@@ -744,7 +744,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
                   <div class="section-grid__item no-gap">
@@ -760,7 +760,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
                   <div class="section-grid__item no-gap">
@@ -776,7 +776,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
                   <div class="section-grid__item no-gap">
@@ -792,7 +792,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
                   <div class="section-grid__item no-gap">
@@ -808,7 +808,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
                   <div class="section-grid__item no-gap">
@@ -819,7 +819,7 @@ URBAN CARTAGENA
                     <p class="text-10">Calle 25 # 9A - 06 L. 2</p>
                     <p class="text-10">Getsemaní, Cartagena</p>
                     <p class="text-14-p mb-20 number">+57 300 8565189</p>
-                    <a href="" class="button button--small" target="_blank"> VER </a>
+                    <a href="" class="button button--small" target="_blank"> VIEW </a>
                   </div>
                   <div class="section-grid__item no-gap">
                     <h3 class="text-16  text-center color--5E713E text-stroke-3">
@@ -834,7 +834,7 @@ URBAN CARTAGENA
                       class="button button--small"
                       target="_blank"
                     >
-                      VER
+                      VIEW
                     </a>
                   </div>
                   <div class="section-grid__item no-gap">
@@ -845,7 +845,7 @@ URBAN CARTAGENA
                     <p class="text-10">Cra. 5 # 34 - 63</p>
                     <p class="text-10">Centro Histórico, Cartagena</p>
                     <p class="text-14-p mb-20 number">+57 317 6911393</p>
-                    <a href="" class="button button--small" target="_blank"> VER </a>
+                    <a href="" class="button button--small" target="_blank"> VIEW </a>
                   </div>
                 </div>
               </div>
