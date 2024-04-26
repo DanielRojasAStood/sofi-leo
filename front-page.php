@@ -303,7 +303,7 @@
             <img class="" src="<?php echo IMG_BASE . 'logo.svg' ?>" alt=""> 
           </div>
 
-          <p class="text-26-n text-stroke-3 pb-10">Kindly respond by September 26th, 2024</p>
+          <p class="text-26-n text-stroke-3 pb-10">Kindly respond by September 16th, 2024</p>
           <p class="text-26-n text-stroke-3">Por favor confirmar su asistencia antes</p>
           <p class="text-26-n text-stroke-3 pb-60">del 16 de Septiembre, 2024</p>
         </div>
