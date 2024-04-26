@@ -78,7 +78,7 @@
             <p class="text-92 pb-10">Welcome Cocktail</p>
             <p class="text-22 pb-20">CÓCTEL DE BIENVENIDA</p>
     
-            <p class="text-32-n text-stroke-4">Sogitel Legend</p>
+            <p class="text-32-n text-stroke-4">Sofitel Legend</p>
             <p class="text-32-n text-stroke-4 pb-10">Santa Clara Hotel</p>
 
             <div class="pb-10">
