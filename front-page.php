@@ -53,7 +53,7 @@
           <p class="text-26">DRESS CODE</p>
           <p class="text-32-n text-stroke-5 pb-10">Suit - Long Dress | Traje - Vestido Largo</p>
           <div class="pb-60">
-            <button class="button button--gray text-stroke-5">View Example</button>
+            <button class="button button--gray text-stroke-5" data-open-modal="modal-10">View Example</button>
           </div>
 
           <p class="text-26 pb-10">GIFT - REGALOS</p>
@@ -93,7 +93,7 @@
 
             <p class="text-32-n text-stroke-4">Camisa de Lino / Guayabera</p>
             <p class="text-32-n text-stroke-4 pb-20">Vestido de cóctel tropical</p>
-            <button class="button button--gray">View Example</button>
+            <button class="button button--gray" type="button" data-open-modal="modal-11">View Example</button>
           </div>
         </div>
     </div>
@@ -118,7 +118,7 @@
             The ultimate way to experience Cartagena is by strolling through it, immersing yourself in the maze of narrow streets and lush green plazas. We highly recommend lodging within the walled city, where everything is conveniently within walking distance. The streets are alive with constant live music, splendid restaurants, and quirky bars, all contributing to the vibrant atmosphere of Cartagena.
           </p>
 
-          <span></span>
+          <span class="line"></span>
           
           <p class="text-26-n pb-30 text-stroke-4">
             Estamos encantados de celebrar nuestra boda en Cartagena, la joya costera de Colombia. Esta ciudad, declarada Patrimonio de la Humanidad por la UNESCO, es uno de los tesoros culturales más importantes de Sudamérica. Las murallas de Cartagena de Indias adornan el centro histórico, conocido como "la ciudad amurallada", donde podrá descubrir plazas, calles adoquinadas y exquisitos y vibrantes edificios coloniales.
@@ -246,6 +246,20 @@
                   old city and the Caribbean Sea, 
                   the island of Tierrabomba and 
                   La Boquilla.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="card-slick__item">
+            <div class="card-slick__item-box">
+              <img src="/wp-content/themes/sofi-leo/img/isla.png" alt="" width="" height="" />
+              <div class="card-slick__item-info">
+                <p class="text-24-1 mb-10 border-bottom">
+                ISLAS DEL ROSARIO
+                </p>
+                <p class="text-22-1 text-stroke-5">
+                In Islas del Rosario you will find many white sand beaches and crystal clear waters where you can also explore the wonderful marine life.
                 </p>
               </div>
             </div>
@@ -412,6 +426,28 @@
             id=""
             
           />
+        </div>
+      </div>
+    </section>
+
+    <section class="modal" style="display: none" data-modal="modal-10">
+      <div class="modal__wrapper">
+        <div class="modal__body">
+          <button type="button" data-close-modal>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"> <path fill="#fff" stroke-miterlimit="10" d="M7.72 6.28 6.28 7.72 23.56 25 6.28 42.28l1.44 1.44L25 26.44l17.28 17.28 1.44-1.44L26.44 25 43.72 7.72l-1.44-1.44L25 23.56z" font-family="none" font-size="none" font-weight="none" style="mix-blend-mode: normal" text-anchor="none" transform="scale(5.1)" /> </svg>
+          </button>
+          <img src="<?php echo IMG_BASE . 'wedding.webp'?>" alt="">
+        </div>
+      </div>
+    </section>
+
+    <section class="modal" style="display: none" data-modal="modal-11">
+      <div class="modal__wrapper">
+        <div class="modal__body">
+          <button type="button" data-close-modal>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"> <path fill="#fff" stroke-miterlimit="10" d="M7.72 6.28 6.28 7.72 23.56 25 6.28 42.28l1.44 1.44L25 26.44l17.28 17.28 1.44-1.44L26.44 25 43.72 7.72l-1.44-1.44L25 23.56z" font-family="none" font-size="none" font-weight="none" style="mix-blend-mode: normal" text-anchor="none" transform="scale(5.1)" /> </svg>
+          </button>
+          <img src="<?php echo IMG_BASE . 'party.webp'?>" alt="">
         </div>
       </div>
     </section>

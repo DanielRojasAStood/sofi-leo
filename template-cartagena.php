@@ -536,6 +536,21 @@ URBAN CARTAGENA
                       VIEW
                     </a>
                   </div>
+                  <div class="section-grid__item no-gap">
+                    <h3 class="text-16  text-center color--5E713E text-stroke-3">
+                    LA ÚNICA
+                    </h3>
+                    <p class="text-10">Cra. 8 # 38 - 47</p>
+                    <p class="text-10">Centro Histórico, Cartagena</p>
+                    <p class="text-14-p mb-20 number">+57 317 4405086</p>
+                    <a
+                      href="https://www.instagram.com/launicactg/"
+                      class="button button--small"
+                      target="_blank"
+                    >
+                      VIEW
+                    </a>
+                  </div>
                 </div>
               </div>
 
