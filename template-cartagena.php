@@ -125,7 +125,7 @@
                   <div class="section-grid__item no-gap">
                     <h3 class="text-16  text-center color--5E713E text-stroke-3">
                     HOTEL NH ROYAL <br>
-URBAN CARTAGENA
+                      URBAN CARTAGENA
                     </h3>
                     <p class="text-10">Cra. 7 # 34 - 10</p>
                     <p class="text-10">Centro Histórico, Cartagena</p>
@@ -743,6 +743,126 @@ URBAN CARTAGENA
               </div>
               <div class="text-center" id="boutiques">
                 <h2 class="text-40 color--5E713E uppercase">BOUTIQUES</h2>
+              </div>
+              <div class="section-grid__line">
+                <div class="section-grid gap-80 slick-4">
+                    <div class="section-grid__item no-gap">
+                      <h3 class="text-16 text-center color--5E713E text-stroke-3">
+                      C.C. LA SERREZUELA
+                      </h3>
+                      <p class="text-10">Cra. 11 # 39 - 21</p>
+                      <p class="text-10">Cartagena, Colombia</p>
+                      <p class="text-14-p mb10 number">+57 (605) 6421795</p>
+                      <a href="https://www.plazalaserrezuela.com/" class="button button--small" target="_blank">
+                      VIEW
+                      </a>
+                    </div>
+                    <div class="section-grid__item no-gap">
+                      <h3 class="text-16 text-center color--5E713E text-stroke-3">
+                      MALVA
+                      </h3>
+                      <p class="text-10">Cra. 11 # 39 - 21</p>
+                      <p class="text-10">Cartagena, Colombia</p>
+                      <p class="text-14-p mb10 number">+57 300 3278066</p>
+                      <a href="https://malvaonline.com/" class="button button--small" target="_blank">
+                      VIEW
+                      </a>
+                    </div>
+                    <div class="section-grid__item no-gap">
+                      <h3 class="text-16 text-center color--5E713E text-stroke-3">
+                      ST. DOM
+                      </h3>
+                      <p class="text-10">Cra. 3 # 33 - 70</p>
+                      <p class="text-10">Centro Histórico, Cartagena</p>
+                      <p class="text-14-p mb10 number">+57 (605) 6354380</p>
+                      <a href="http://www.lurecartagena.com/st-dom/" class="button button--small" target="_blank">
+                      VIEW
+                      </a>
+                    </div>
+                    <div class="section-grid__item no-gap">
+                      <h3 class="text-16 text-center color--5E713E text-stroke-3">
+                      SILVIA TCHERASSI
+                      </h3>
+                      <p class="text-10">Calle 31 # 31 - 11</p>
+                      <p class="text-10">Centro Histórico, Cartagena</p>
+                      <p class="text-14-p mb10 number">+57 (605) 6790051</p>
+                      <a href="https://www.silviatcherassi.com/co/es/tiendas/cartagena" class="button button--small" target="_blank">
+                      VIEW
+                      </a>
+                    </div>
+                    <div class="section-grid__item no-gap">
+                      <h3 class="text-16 text-center color--5E713E text-stroke-3">
+                      FRANCESCA MIRANDA
+                      </h3>
+                      <p class="text-10">Calle 31 # 3 - 25</p>
+                      <p class="text-10">Centro Histórico, Cartagena</p>
+                      <p class="text-14-p mb10 number">+57 (605) 6648821</p>
+                      <a href="https://www.instagram.com/francescamiranda_" class="button button--small" target="_blank">
+                      VIEW
+                      </a>
+                    </div>
+                    <div class="section-grid__item no-gap">
+                      <h3 class="text-16 text-center color--5E713E text-stroke-3">
+                      BEATRIZ CAMACHO
+                      </h3>
+                      <p class="text-10">Calle 33 # 3 - 04</p>
+                      <p class="text-10">Centro Histórico, Cartagena</p>
+                      <p class="text-14-p mb10 number">+57 320 5651113</p>
+                      <a href="href=" https:="" beatrizcamacho.com="" ""="" class="button button--small" target="_blank"> VIEW </a>
+                    </div>
+                    <div class="section-grid__item no-gap">
+                      <h3 class="text-16 text-center color--5E713E text-stroke-3">
+                      GORETTY MEDINA
+                      </h3>
+                      <p class="text-10">Calle La Mantilla # 3 - 44</p>
+                      <p class="text-10">Centro Histórico, Cartagena</p>
+                      <p class="text-14-p mb10 number">+57 317 4368144</p>
+                      <a href="https://www.instagram.com/gorettymedinac/" class="button button--small" target="_blank">
+                      VIEW
+                      </a>
+                    </div>
+                    <div class="section-grid__item no-gap">
+                      <h3 class="text-16 text-center color--5E713E text-stroke-3">
+                      KETTY TINOCO
+                      </h3>
+                      <p class="text-10">Calle Balocco # 33 - 01</p>
+                      <p class="text-10">Centro Histórico, Cartagena</p>
+                      <p class="text-14-p mb10 number">+57 301 6287824</p>
+                      <a href="https://kettytinoco.com/" class="button button--small" target="_blank"> VIEW </a>
+                    </div>
+                    <div class="section-grid__item no-gap">
+                      <h3 class="text-16 text-center color--5E713E text-stroke-3">
+                      AZULU
+                      </h3>
+                      <p class="text-10">Cra. 3 # 31 - 11</p>
+                      <p class="text-10">Centro Histórico, Cartagena</p>
+                      <p class="text-14-p mb10 number">+57 (605) 6642724</p>
+                      <a href="https://azulu.co/" class="button button--small" target="_blank"> VIEW </a>
+                    </div>
+                    <div class="section-grid__item no-gap">
+                      <h3 class="text-16 text-center color--5E713E text-stroke-3">
+                      TO RENT <br>
+                      GABRIEL BOUTIQUE
+                      </h3>
+                      <p class="text-10">Cra. 2 # 9 – 148 L. 5</p>
+                      <p class="text-10">Bocagrande, Cartagena</p>
+                      <p class="text-14-p mb10 number">+57 (605) 6658020</p>
+                      <a href="https://www.instagram.com/boutiquegabriel/?hl=en" class="button button--small" target="_blank"> VIEW </a>
+                    </div>
+                    <div class="section-grid__item no-gap">
+                      <h3 class="text-16 text-center color--5E713E text-stroke-3">
+                      TO RENT <br>
+                      D’CLASE
+                      </h3>
+                      <p class="text-10">Av. San Martin 5 – 84T L.201</p>
+                      <p class="text-10">Bocagrande, Cartagena</p>
+                      <p class="text-14-p mb10 number">+57 300 7889362</p>
+                      <a href="https://www.instagram.com/dclase.co/?hl=en" class="button button--small" target="_blank"> VIEW </a>
+                    </div>
+                </div>
+              </div>
+              <div class="text-center" id="beauty">
+                <h2 class="text-40 color--5E713E uppercase">BEAUTY SALONS</h2>
               </div>
               <div class="section-grid__line">
                 <div class="section-grid gap-80 slick-4">
